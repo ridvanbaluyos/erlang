@@ -1,3 +1,11 @@
+%%%-------------------------------------------------------------------
+%% @copyright 2009 3rdBrand Pte. Ltd.
+%% @author Ridvan Baluyos <ridvan@baluyos.net>
+%% @version {@vsn}, {@date} {@time}
+%% @doc Erlang version for filtering java vs. symbian phones.
+%% @end
+%%%-------------------------------------------------------------------
+
 -module(javaphones).
 -compile(export_all).
 
